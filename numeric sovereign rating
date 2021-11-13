@@ -170,7 +170,7 @@ df1 = df.groupby(['Date','country']).mean()
 # In[21]:
 
 
-df1.to_csv("ahoj.csv")
+df1.to_csv("sov_rating_numeric.csv")
 
 
 # In[ ]:
